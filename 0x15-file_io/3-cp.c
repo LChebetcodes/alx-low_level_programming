@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#define BUF_SIZE 1024
 
 /**
  * error_file - checks if files can be opened.
